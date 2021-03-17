@@ -112,4 +112,4 @@ series = {SMSociety'20}
 
 # Reporting Issues and Getting Help
 
-Use [issues](https://gitlab.umich.edu/politicians-database/us-india-politicians-tweets/-/issues) to report bugs and request changes to the collection process or metadata. We will not be providing hands-on help with the data, but we will try to answer questions if they come up. You can direct questions to [politics-database@umich.edu](mailto:politics-database@umich.edu).
+Use [issues](https://github.com/casmlab/politicians-tweets/issues) to report bugs and request changes to the collection process or metadata. We will not be providing hands-on help with the data, but we will try to answer questions if they come up. You can direct questions to [politics-database@umich.edu](mailto:politics-database@umich.edu).
