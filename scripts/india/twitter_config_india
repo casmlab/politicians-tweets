@@ -1,0 +1,10 @@
+[Default]
+consumer_key = <Your Twitter API Consumer Key>
+consumer_secret = <Your Consumer Secret>
+access_token = <Your Access Token>
+access_secret = <Your Access Secret>
+in_directory = /politweets/india/seed/ 
+out_directory = /politweets/india/tweets_par/
+temp_directory = /politweets/india/temp/
+error_directory = /politweets/india/errors/
+account_list = /home/anmolp/get_tweets/india/india_July_21.json 
