@@ -4,9 +4,13 @@ The Twitter U.S. and Indian Politicians dataset is provided for use by Universit
 
 # Requesting Access
 
+## UM faculty, staff, and students
 [Use this form to apply for access](https://forms.gle/ofiY1dHWNXYK7kqo6). MIDAS will review your application, send you a copy of the memorandum of understanding between you and MIDAS that explains the date use terms.
 
 The process for gaining access to the dataset is similar to the [Twitter Decahose Data](https://midas.umich.edu/twitter-decahose-data/). 
+
+## Interested folks at other institutions
+Email [politics-database@umich.edu](mailto:politics-database@umich.edu) with some information about your project, your timeline, and the specific data you are interested in using. We are actively developing datasets and access procedures for researchers at other institutions, but we will likely not have formal systems in place until late summer 2021.
 
 # Using the Data
 
