@@ -1,0 +1,18 @@
+variable name,variable label,variable format,variable description (or question text),valid range or values,value indicating missing data,value indicating inapplicable data
+index,index of the item in this dataset only,integer,index of this account within the Twitter Politicians Dataset,,NaN,
+id,Twitter account id,integer,Twitter account id,,NaN,
+id_str,Twitter account id in string format,string,Twitter account id in string format,,NaN,
+screen_name,Twitter username,string,"Twitter username or handle that appears after the @ (e.g., potus)",,NaN,
+twitter_name,Twitter name,string,"Name indicated in Twitter API field 'name' (e.g., President Biden)",,NaN,
+real_name,Offline name of account holder,string,"Offline name of the account holder (e.g., Joseph R. Biden, Jr.)",,,
+account_type,which type of account,integer,"What type of entity does this account represent? If a politician, is it an official, campaign, or personally-managed account? Best guesses, not verified types","Value labels: 1 = politician-personal (@realDonaldTrump), 2 = politician-official (@SenDougJones), 3 = politician-campaign (@yang_campaign), 4 = government (@HHSGov), 5 = media organization, 6 = celebrity, 7 = influencer, 8 = journalist, 0 = other/unknown",NaN,
+confirmed_account_type,has account type been confirmed by our team,integer,"Have we as a team confirmed that this account belongs to a politician; MTurk confirmations are included, so you may want to doublecheck these accounts","0 = no, 1 = yes",NaN,
+bioguide_id,bioguide id,string,"Each present and former member of the United States Congress has a unique control number associated with their record in the Biographical Directory of the United States Congress. Member IDs (also known as ""BioGuide IDs"") are used as metadata within Congress.gov and legislative documents published by the Government Publishing Office. (from Congress.gov)",,NaN,NA
+office_holder,is the account holder in office,integer,"does this account belong to someone who holds an office? ""now"" = as of ""last_updated time""; individuals take values, but offices do not","0 = never, 1 = now, 2 = past",NaN,99
+candidate,is the account holder a candidate for office,integer,"as of the ""last_updated"" time for this record, did the account belong to a candidate (has officially declared candidacy for a future election)","0 = no, 1 = yes",NaN,99
+party,political party,integer,Indicates which political party the account owner belongs to,"1 = Democratic, 2 = Republican, 3 = Green, 4 = Libertarian, 5 = Independent",NaN,99
+state,U.S. state associated with account,string,"Indicates which state the account holder represents, serves, or resides in",any US state or territory,NaN,NA
+district,congressional distict or ward or constituency,integer,"Indicates the number of the district/ward the account represents, serves, or lives in","0 = at-large, 1 - X = the number of the district",NaN,99
+level,level of government,integer,"Indicates which level of government this accounts serves, runs for, occupies; ""local"" refers to all offices below the state-level (e.g., cities, townships, counties)","1 = local, 2 = state, 3 = federal",NaN,99
+woman,is the account holder a woman,integer,Indicates whether the account belongs to a woman,"0 = no, 1 = yes",NaN,99
+last_updated,date last updated,datetime,when was metadata about this account last updated by the UMSI team,,NaN,
