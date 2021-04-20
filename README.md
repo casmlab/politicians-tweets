@@ -46,12 +46,7 @@ We are manually checking all accounts NivaDuck identified and will provide perio
 
 ### Metadata Fields
 
-* index: unique id in the dataset
-* id: integer Twitter account ID
-* id_str: string version of Twitter account ID
-* screen_name: Twitter screen name of the account
-* domain or confirmed_politician: boolean indicates whether this account has been affirmed
-* state: U.S. state the official or candidate represents
+See the [codebook](https://github.com/casmlab/politicians-tweets/blob/main/metadata/usa/usa-metadata-codebook.csv) for a list of metadata fields, descriptions, variable types, valid values, etc.
 
 Here's an example of the minimum metadata:
 
