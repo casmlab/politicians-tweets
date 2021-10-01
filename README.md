@@ -68,6 +68,8 @@ Funding for the staff and infrastructure were provided by
 * [Advanced Research Computing - Technology Services](https://arc.umich.edu/)
 * [Assoc. Professor Libby Hemphill](https://www.si.umich.edu/people/libby-hemphill)
 
+We are grateful to [Ballot Ready](https://www.ballotready.org/) for providing data on political candidates in the U.S.
+
 # How to Cite/Acknowledge the Data
 
 ## Acknowledge the Dataset Providers
