@@ -25,6 +25,7 @@ As of **April 21, 2021**, the data includes:
 
 * USA
 	- Number of accounts: 9608 (8994 with state metadata; all current MCs with complete metadata)
+	- New Accounts of Celebrities added from https://github.com/webis-de/ACL-19/tree/master/celebrity-profiling
 * India
 	- Number of political Twitter handles: 33074 (27300 with party metadata, 16027 with state metadata)
 
