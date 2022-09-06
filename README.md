@@ -28,7 +28,7 @@ As of **April 21, 2021**, the data includes:
 	- New Accounts of Celebrities added from https://github.com/webis-de/ACL-19/tree/master/celebrity-profiling
 * India
 	- Number of political Twitter handles: 33074 (27300 with party metadata, 16027 with state metadata)
-	- New Handles Added from the DISMISS database
+	- New Handles Added from the [DISMISS](https://ojs.aaai.org/index.php/ICWSM/article/view/19370) database 
 
 ## Data Collection Process
 
@@ -64,6 +64,8 @@ Archived metadata files are available in the `metadata` folder as well.
 # Contributors
 
 [Anmol Panda](mailto:anmolp@umich.edu) and [Armand Burks](arburks@umich.edu) wrote the scripts to collect and archive Tweets using the Twitter Public API (via [tweepy](https://www.tweepy.org/)). [Libby Hemphill](mailto:libbyh@umich.edu) generated this documentation and manages the team who collect and update data and metadata. [Evan Parres](mailto:evparres@umich.edu) handles metadata updates, and [Najmin Ahmed](mailto:nnahmed@umich.edu) manually verified many state labels for 2020 election candidates.
+
+This project is a continuation of work initiated by [Joyojeet Pal](mailto:joyojeet@umich.edu) and [Anmol Panda](mailto:anmolp@umich.edu) at Microsoft Research India.
 
 Funding for the staff and infrastructure were provided by
 
