@@ -65,6 +65,8 @@ Archived metadata files are available in the `metadata` folder as well.
 
 [Anmol Panda](mailto:anmolp@umich.edu) and [Armand Burks](arburks@umich.edu) wrote the scripts to collect and archive Tweets using the Twitter Public API (via [tweepy](https://www.tweepy.org/)). [Libby Hemphill](mailto:libbyh@umich.edu) generated this documentation and manages the team who collect and update data and metadata. [Evan Parres](mailto:evparres@umich.edu) handles metadata updates, and [Najmin Ahmed](mailto:nnahmed@umich.edu) manually verified many state labels for 2020 election candidates.
 
+This project is a continuation of work initiated by [Joyojeet Pal](mailto:joyojeet@umich.edu) and [Anmol Panda](mailto:anmolp@umich.edu) at Microsoft Research India.
+
 Funding for the staff and infrastructure were provided by
 
 * [Michigan Institute for Data Science](https://midas.umich.edu/)
