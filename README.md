@@ -86,7 +86,7 @@ If you use the data, please cite the NivaDuck and DISMISS papers (bibtex below).
 ## Cite the NivaDuck paper
 
 ### BibTeX
-When using the Indian politicians dataset 
+NivaDuck Paper
 ```
 @inproceedings{
 10.1145/3400806.3400830,
@@ -107,7 +107,7 @@ location = {Toronto, ON, Canada},
 series = {SMSociety'20}
 }
 ```
-
+DISMISS Paper
 ```
 @article{Arya_De_Mishra_Shekhawat_Sharma_Panda_Lalani_Singh_Mothilal_Grover_Nishal_Dash_Shora_Akbar_Pal_2022, 
 title={DISMISS: Database of Indian Social Media Influencers on Twitter}, 
