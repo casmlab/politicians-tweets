@@ -79,14 +79,14 @@ We are grateful to [Ballot Ready](https://www.ballotready.org/) for providing da
 
 ## Acknowledge the Dataset Providers
 
-If you use the data, please cite the NivaDuck paper (bibtex below) and include the following acknowledgment:
+If you use the data, please cite the NivaDuck and DISMISS papers (bibtex below). and include the following acknowledgment:
 
 > The Twitter U.S.and India Politicians dataset is supported by [the Michigan Institute for Data Science](https://midas.umich.edu/), [Advanced Research Computing - Technology Services](https://arc.umich.edu/), and [Consulting for Statistics, Computing & Analytics Research](https://cscar.research.umich.edu/), and [Dr. Libby Hemphill's](https://www.si.umich.edu/people/libby-hemphill) research group in the [School of Information](https://www.si.umich.edu/).
 
 ## Cite the NivaDuck paper
 
 ### BibTeX
-
+When using the Indian politicians dataset 
 ```
 @inproceedings{
 10.1145/3400806.3400830,
@@ -106,6 +106,20 @@ keywords = {united states, india, archive, twitter, politics},
 location = {Toronto, ON, Canada},
 series = {SMSociety'20}
 }
+```
+
+```
+@article{Arya_De_Mishra_Shekhawat_Sharma_Panda_Lalani_Singh_Mothilal_Grover_Nishal_Dash_Shora_Akbar_Pal_2022, 
+title={DISMISS: Database of Indian Social Media Influencers on Twitter}, 
+volume={16}, 
+url={https://ojs.aaai.org/index.php/ICWSM/article/view/19370}, 
+DOI={10.1609/icwsm.v16i1.19370}, 
+number={1}, 
+journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
+author={Arya, Arshia and De, Soham and Mishra, Dibyendu and Shekhawat, Gazal and Sharma, Ankur and Panda, Anmol and Lalani, Faisal and Singh, Parantak and Mothilal, Ramaravind Kommiya and Grover, Rynaa and Nishal, Sachita and Dash, Saloni and Shora, Shehla and Akbar, Syeda Zainab and Pal, Joyojeet}, 
+year={2022}, 
+month={May}, 
+pages={1201-1207} }
 ```
 
 ### APA 7th
