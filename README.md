@@ -83,7 +83,7 @@ If you use the data, please cite the NivaDuck and DISMISS papers (bibtex below).
 
 > The Twitter U.S.and India Politicians dataset is supported by [the Michigan Institute for Data Science](https://midas.umich.edu/), [Advanced Research Computing - Technology Services](https://arc.umich.edu/), and [Consulting for Statistics, Computing & Analytics Research](https://cscar.research.umich.edu/), and [Dr. Libby Hemphill's](https://www.si.umich.edu/people/libby-hemphill) research group in the [School of Information](https://www.si.umich.edu/).
 
-## Cite the NivaDuck paper
+## Citations
 
 ### BibTeX
 NivaDuck Paper
