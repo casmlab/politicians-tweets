@@ -63,7 +63,7 @@ Archived metadata files are available in the `metadata` folder as well.
 
 # Contributors
 
-[Anmol Panda](mailto:anmolp@umich.edu) and [Armand Burks](arburks@umich.edu) wrote the scripts to collect and archive Tweets using the Twitter Public API (via [tweepy](https://www.tweepy.org/)). [Libby Hemphill](mailto:libbyh@umich.edu) generated this documentation and manages the team who collect and update data and metadata. [Evan Parres](mailto:evparres@umich.edu) handles metadata updates, and [Najmin Ahmed](mailto:nnahmed@umich.edu) manually verified many state labels for 2020 election candidates.
+[Anmol Panda](mailto:anmolp@umich.edu) and [Armand Burks](arburks@umich.edu) wrote the scripts to collect and archive Tweets using the Twitter Public API (via [tweepy](https://www.tweepy.org/)). [Joyojeet Pal](mailto:joyojeet@umich.edu) had conceived the project at MSR India with [Anmol Panda](mailto:anmolp@umich.edu), and his team contributes new accounts for the India dataset. [Libby Hemphill](mailto:libbyh@umich.edu) generated this documentation and manages the team who collect and update data and metadata. [Evan Parres](mailto:evparres@umich.edu) handled metadata updates, and [Najmin Ahmed](mailto:nnahmed@umich.edu) manually verified many state labels for 2020 election candidates.
 
 This project is a continuation of work initiated by [Joyojeet Pal](mailto:joyojeet@umich.edu) and [Anmol Panda](mailto:anmolp@umich.edu) at Microsoft Research India.
 
