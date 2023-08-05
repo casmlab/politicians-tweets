@@ -19,6 +19,10 @@ Two scripts ran daily, one each for India and the U.S., to pull new tweets poste
 
 You can view the scripts for collection in the `scripts` folder.
 
+## Data Access
+
+The data is archived at the Social Media Archive (SOMAR) at ICPSR. [Visit SOMAR](https://socialmediaarchive.org/record/44) to apply for access to the data.
+
 ## Twitter User Metadata 
 
 We are manually checking all accounts NivaDuck identified and will provide periodic metadata updates.
@@ -58,13 +62,23 @@ We are grateful to [Ballot Ready](https://www.ballotready.org/) for providing da
 
 ## Acknowledge the Dataset Providers
 
-If you use the data, please cite the NivaDuck and DISMISS papers (bibtex below). and include the following acknowledgment:
+## Cite the Data
 
-> The Twitter U.S.and India Politicians dataset was supported by [the Michigan Institute for Data Science](https://midas.umich.edu/), [Advanced Research Computing - Technology Services](https://arc.umich.edu/), and [Consulting for Statistics, Computing & Analytics Research](https://cscar.research.umich.edu/), and [Dr. Libby Hemphill's](https://www.si.umich.edu/people/libby-hemphill) research group in the [School of Information](https://www.si.umich.edu/).
+```
+@techreport {panda2023,
+author = {Panda, Anmol and Hemphill, Libby and Pal, Joyojeet},
+year = {2023},
+title = {Politweets: Tweets of politicians, celebrities, news media, and influencers from India and the United States},
+institution = {Inter - University Consortium for Political and Social Research},
+number = {SOMAR44-v1},
+address = {Ann Arbor, MI},
+note = {DOI:10.3886/xm68-rw44},
+}
+```
 
-## Citations
+## Cite the Papers
 ### NivaDuck Paper
-### BibTeX
+#### BibTeX
 
 ```
 @inproceedings{
@@ -86,13 +100,13 @@ location = {Toronto, ON, Canada},
 series = {SMSociety'20}
 }
 ```
-### APA 7th
+#### APA 7th
 >Panda, A., Gonawela, A., Acharyya, S., Mishra, D., Mohapatra, M., Chandrasekaran, R., & Pal, J. (2020). NivaDuck - A Scalable Pipeline to Build a Database of Political Twitter Handles for India and the United States. International Conference on Social Media and Society, 200–209. https://doi.org/10.1145/3400806.3400830
 
 
 
 ### DISMISS Paper
-### BibTex
+#### BibTex
 ```
 @article{Arya_De_Mishra_Shekhawat_Sharma_Panda_Lalani_Singh_Mothilal_Grover_Nishal_Dash_Shora_Akbar_Pal_2022, 
 title={DISMISS: Database of Indian Social Media Influencers on Twitter}, 
@@ -107,7 +121,7 @@ month={May},
 pages={1201-1207} }
 ```
 
-### APA 7th
+#### APA 7th
 >Arya, A., De, S., Mishra, D., Shekhawat, G., Sharma, A., Panda, A., Lalani, F., Singh, P., Mothilal, R. K., Grover, R., Nishal, S., Dash, S., Shora, S., Akbar, S. Z., & Pal, J. (2022). DISMISS: Database of Indian Social Media Influencers on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 16(1), 1201-1207. https://doi.org/10.1609/icwsm.v16i1.19370
 
 
