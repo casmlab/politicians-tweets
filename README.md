@@ -60,8 +60,6 @@ We are grateful to [Ballot Ready](https://www.ballotready.org/) for providing da
 
 # How to Cite/Acknowledge the Data
 
-## Acknowledge the Dataset Providers
-
 ## Cite the Data
 
 ```
